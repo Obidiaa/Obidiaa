@@ -10,6 +10,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obid12&show_icons=true&locale=en&layout=compact" alt="obid12" /></p>
+### ⚙️ &nbsp;GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obid12&show_icons=true&locale=en" alt="obid12" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toharifqi&layout=compact&custom_title=My%20Programming%20Languages&hide=jupyter%20notebook&theme=algolia&card_width=250)](https://github.com/toharifqi/)
+[![toharifqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=toharifqi&&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Statistics&line_height=24&hide=contribs)](https://github.com/toharifqi/)
