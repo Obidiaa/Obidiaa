@@ -12,10 +12,10 @@
     - **Project Modularization and Dynamic Feature**
       
 ### ⚙️ &nbsp;GitHub Analytics
-[![obid12's GitHub stats](https://github-readme-stats.vercel.app/api?username=obid12&&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Statistics&line_height=24&hide=contribs)](https://github.com/obid12/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obid12&layout=compact&custom_title=My%20Programming%20Languages&hide=jupyter%20notebook&theme=algolia&card_width=250)](https://github.com/obid12/)
+[![Obidiaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obidiaa&&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Statistics&line_height=24&hide=contribs)](https://github.com/Obidiaa/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obidiaa&layout=compact&custom_title=My%20Programming%20Languages&hide=jupyter%20notebook&theme=algolia&card_width=250)](https://github.com/Obidiaa/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obid12&" alt="obid12" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Obidiaa&" alt="Obidiaa" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
