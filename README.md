@@ -17,8 +17,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obidiaa&layout=compact&custom_title=My%20Programming%20Languages&hide=jupyter%20notebook&theme=algolia&card_width=250)](https://github.com/Obidiaa/)
 
-//<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Obidiaa&" alt="Obidiaa" /></p>
-
 ![](https://komarev.com/ghpvc/?username=Obidiaa&color=green)
 
 <h3 align="left">Connect with me:</h3>
