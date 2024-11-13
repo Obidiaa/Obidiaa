@@ -10,6 +10,7 @@
     - **Reactive Programming** (using coroutine flow)
     - **Unit testing** (using JUnit 4 and mockito)
     - **Project Modularization and Dynamic Feature**
+    - **Jetpack Compose**
       
 ### ⚙️ &nbsp;GitHub Analytics
 ![Obidiaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obidiaa&show_icons=true&theme=radical)
