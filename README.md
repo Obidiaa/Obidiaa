@@ -11,9 +11,6 @@
     - **Unit testing** (using JUnit 4 and mockito)
     - **Project Modularization and Dynamic Feature**
     - **Jetpack Compose**
-      
-### ⚙️ &nbsp;GitHub Analytics
-![Obidiaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obidiaa&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obidiaa&layout=compact&custom_title=My%20Programming%20Languages&hide=jupyter%20notebook&theme=algolia&card_width=250)](https://github.com/Obidiaa/)
 
