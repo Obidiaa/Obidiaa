@@ -12,7 +12,7 @@
     - **Project Modularization and Dynamic Feature**
     - **Jetpack Compose**
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Obidiaa&show_icons=true&cache_seconds=0&&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Obidiaa&cache_seconds=86400&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obidiaa&layout=compact&custom_title=My%20Programming%20Languages&hide=jupyter%20notebook&theme=algolia&card_width=250)](https://github.com/Obidiaa/)
 
