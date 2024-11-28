@@ -12,8 +12,6 @@
     - **Project Modularization and Dynamic Feature**
     - **Jetpack Compose**
 
-[![Obidia's GitHub stats](https://readme-stats-aa.vercel.app/api?username=Obidiaa)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obidiaa&layout=compact&custom_title=My%20Programming%20Languages&hide=jupyter%20notebook&theme=algolia&card_width=250)](https://github.com/Obidiaa/)
 
 ![](https://komarev.com/ghpvc/?username=Obidiaa&color=green)
