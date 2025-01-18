@@ -3,10 +3,10 @@
 
 📝 During my daily work, I've been practicing: 
 - **Android:** 
-    - **MVVM design pattern** (model-view-viewmodel)
+    - **Design Pattern: MVVM, MVI. MVP**
     - **Clean architecture**
     - **SOLID principle**
-    - **Dependency Injection** (using Dagger Hilt)
+    - **Dependency Injection** (Dagger Hilt or Koin)
     - **Reactive Programming** (using coroutine flow)
     - **Unit testing** (using JUnit 4 and mockito)
     - **Project Modularization and Dynamic Feature**
