@@ -1,6 +1,6 @@
 <h3 align="left">Hi 👋, I'm L. Gilang Obidia Ramdhani</h3>
 
-<img width="1536" height="1024" alt="ChatGPT Image Aug 24, 2025, 08_39_52 PM" src="https://github.com/user-attachments/assets/7fe9bbae-7e3c-4482-b865-57777340d85e" />
+<img width="300" height="200" alt="ChatGPT Image Aug 24, 2025, 08_39_52 PM" src="https://github.com/user-attachments/assets/7fe9bbae-7e3c-4482-b865-57777340d85e" />
 
 - **🔭 I’m currently working on an Android and Ios app (Kotlin Multiplatform)**
   
