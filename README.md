@@ -12,7 +12,7 @@
   
 - **📫 How to reach me obidiaramdhani23@gmail.com**
   
-- **⚡ Fun fact I like fotball**
+- **⚡ Fun fact I like football**
   
 <div style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Obidiaa&theme=radical" />
