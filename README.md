@@ -4,8 +4,6 @@
 
 - **🔭 I’m currently working on an Android and Ios app (Kotlin Multiplatform)**
   
-- **🌱 I’m currently learning AI, Kotlin Multiplatform, Back End**
-  
 - **👯 I’m looking to collaborate on Android App/SDK Development**
   
 - **💬 Ask me about Andorid Development, Compose Multiplatform and Kotlin Multiplatform**
